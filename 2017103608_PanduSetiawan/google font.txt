@@ -1,0 +1,6 @@
+font-family: 'Niconne', cursive;
+font-family: 'Nosifer', cursive;
+font-family: 'Patua One', cursive;
+font-family: 'Shrikhand', cursive;
+font-family: 'Concert One', cursive;
+font-family: 'Alegreya Sans SC', sans-serif;

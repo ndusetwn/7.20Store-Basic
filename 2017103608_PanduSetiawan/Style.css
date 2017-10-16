@@ -1,0 +1,291 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#bungkus {
+	width: 1600px;
+	margin: 0 auto;
+	background: white;
+	padding: 0px;
+	border-width: 0px;
+}
+
+#top img {
+	width: 1600px;
+	height: 600px;
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+}
+
+.feature {
+	display: inline-block;
+	padding: 150px;
+}
+
+
+#features h2 {
+	color: #7F7F7F;
+	padding-left: 700px;
+	margin-top: 100px;
+	margin-right: 50px;
+	font-size: 35px;
+	font-family: 'Shrikhand', cursive;
+}
+
+
+.feature h3 {
+	color: #7F7F7F;
+	text-align: left;
+	margin-top: -100px;
+	font-size: 24px;
+	font-family: 'Patua One', cursive;
+}
+
+.feature p {
+	width: 220px;
+	height: auto;
+	text-align: justify;
+	font-size: 15px;
+	font-family: 'Nosifer', cursive;
+}
+
+
+#works {
+	clear: both;
+}
+
+#works h2 {
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 35px;
+	margin-bottom: -50px;
+	font-family: 'Shrikhand', cursive;
+}
+
+
+#works p {
+	width: 500px;
+    height: auto;
+    text-align: center;
+    font-size: 15px;
+	margin: 100px auto;
+	font-family: 'Nosifer', cursive;
+}
+
+
+
+#banner img {
+	width: 1600px;
+	height: 600px;
+}
+
+
+#meetourteam h2 {
+	color: #7F7F7F;
+	text-align: center;
+	font-size: 35px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-family: 'Shrikhand', cursive;
+}
+
+
+.ourteam1 img {
+	width: 360px;
+	height: 360px;
+	float: none;
+	padding: 0px;
+	margin: 50px;
+}
+
+.ourteam1 h3 {
+	display: inline-block;
+	position: relative;
+	top: -400px;
+	font-size: 20px;
+	font-family: 'Shrikhand', cursive;
+	
+}
+
+
+
+.ourteam1 h4 {
+	display: inline-block;
+	position: relative;
+	top: -350px;
+	right: 105px;
+	font-family: 'Concert One', cursive;
+}
+
+
+
+.ourteam1 p {
+	clear: both;
+	display: inline-block;
+	position: relative;
+	top: -365px;
+	left: 500px;
+	text-align: justify;
+	width: 900px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+
+
+
+
+.ourteam2 img {
+	width: 360px;
+	height: 360px;
+	float: none;
+	padding: 0px;
+	margin-bottom: 100px;
+	margin-top: -100px;
+	margin-left: 50px;
+}
+
+
+
+
+.ourteam2 h3 {
+	display: inline-block;
+	position: relative;
+	top: -445px;
+	left: 50px;
+	font-size: 20px;
+	font-family: 'Shrikhand', cursive;
+}
+
+
+
+.ourteam2 h4 {
+	display: inline-block;
+	position: relative;
+	top: -400px;
+	left: 45px;
+	font-family: 'Concert One', cursive;
+}
+
+
+
+.ourteam2 p {
+	clear: both;
+	display: inline-block;
+	position: relative;
+	top: -260px;
+	left: -150px;
+	text-align: justify;
+	width: 900px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+
+
+
+
+#footer img {
+	width: 1600px;
+	height: 600px;
+	clear: both;
+}
+
+
+
+
+
+.mainmenu {
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top: 20px;
+	height: 75px;
+	width: 1600px;
+}
+ 
+.mainmenu:hover {
+    background-color: red;
+    }
+ 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdownchild {
+    display: none;
+    background-color: black;
+    min-width: 200px;
+}
+.dropdownchild a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+	text-align: center;
+}
+.dropdown:hover .dropdownchild {
+    display: block;
+}
+
+
+
+.product img {
+	width: 360px;
+	height: 360px;
+	position: relative;
+	float: left;
+	padding-left: 80px;
+	margin-top: 50px;
+}
+
+
+
+
+.product input {
+	float: left;
+	position: relative;
+	top: 410px;
+	right: 225px;
+	margin-top: 50px;
+	
+}
+
+
+
+.form {
+	position: relative;
+	font-size: 18px;
+	left: 300px;
+	top: 50px;
+}
+
+
+
+#ourdedicates {
+	color: #7F7F7F;
+	text-align: center;
+	margin-top: 100px;
+	margin-right: 50px;
+	font-size: 35px;
+	font-family: 'Shrikhand', cursive;
+}
+
+
+#brand h2 {
+	color: #7F7F7F;
+	padding-left: 650px;
+	margin-top: 100px;
+	margin-right: 50px;
+	font-size: 35px;
+	font-family: 'Shrikhand', cursive;
+}
+
+
+
+
+
+
+
+
